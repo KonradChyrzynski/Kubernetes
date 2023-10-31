@@ -1,0 +1,1 @@
+kubectl expose deployment hello-dotnet --type="LoadBalancer" --port=8080
